@@ -46,7 +46,7 @@ data hazard handling, and data forwarding.
 
 🔗 GitHub Repository
 
-👉 RISC-V 5-Stage Pipelined CPU
+👉 [RISC-V 5-Stage Pipelined CPU](https://github.com/SUBHOJIT-tech/Risc-V-5stage-pipelined-cpu/tree/main)
 🛠 Project Type
 
 RTL Design & Verification (Verilog HDL)
