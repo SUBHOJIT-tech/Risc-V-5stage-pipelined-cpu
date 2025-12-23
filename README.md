@@ -44,22 +44,30 @@ data hazard handling, and data forwarding.
 
 ---
 
-## How to Run
-```bash
-iverilog -g2012 src/design.sv tb/cpu_tb.sv
-vvp a.out
-GitHub Repository:
-👉 https://github.com/SUBHOJIT-tech/riscv-5stage-pipelined-cpu
+🔗 GitHub Repository
 
-Project Type:
-👉 RTL Design & Verification (Verilog HDL)
+👉 RISC-V 5-Stage Pipelined CPU
+🛠 Project Type
 
-Simulation Tools:
-👉 Icarus Verilog
-👉 EPWave (Waveform Analysis)
+RTL Design & Verification (Verilog HDL)
+🛠 Project Type
 
-Waveform Verification:
-👉 Included in repository (/waveforms directory)
+RTL Design & Verification (Verilog HDL)
+📈 Waveform Verification
+
+Waveforms included in repository
+
+Directory: waveforms/
+🐞 Issues & Bug Reports
+
+👉 Report Issues
+📧 Contact
+
+Email:
+📩 subhojitbebarta123@gmail.com
+🕒 Last Updated
+
+December 2025
 
 Issues & Bug Reports:
 👉 https://github.com/SUBHOJIT-tech/riscv-5stage-pipelined-cpu/issues
